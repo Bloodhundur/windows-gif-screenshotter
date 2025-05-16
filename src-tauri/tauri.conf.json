@@ -11,8 +11,22 @@
     "windows": [
       {
         "title": "windows-gif-screenshotter",
-        "resizable": false,  
+        "resizable": false, 
+        "transparent": true, 
+        "alwaysOnTop": true,
         "decorations": false
+        
+      },
+      {
+        "label": "overlay",
+      "url": "overlay.html",
+      "transparent": true,
+    "decorations": false,
+    "alwaysOnTop": true,
+    "resizable": false,
+    "width": 400,
+    "height": 300,
+    "visible": false
       }
     ],
     "security": {
