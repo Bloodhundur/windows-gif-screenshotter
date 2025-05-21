@@ -5337,6 +5337,7 @@ name = "windows-gif-screenshotter"
 version = "0.1.0"
 dependencies = [
  "fs_extra",
+ "gif",
  "image",
  "rdev",
  "screenshots",

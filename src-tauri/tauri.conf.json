@@ -22,7 +22,7 @@
       "url": "overlay.html",
       "transparent": true,
     "decorations": false,
-    "alwaysOnTop": true,
+    "alwaysOnTop": false,
     "resizable": false,
     "width": 400,
     "height": 300,

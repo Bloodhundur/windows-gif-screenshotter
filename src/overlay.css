@@ -1,4 +1,9 @@
 html, body {
- color: transparent;
- border: 0px solid transparent;
+   margin: 0;
+  padding: 0;
+  background: transparent;
+  border: none;
+  outline: none;
+  box-shadow: none;
+  pointer-events: none;
 }
