@@ -20,7 +20,7 @@ Captured GIFs are saved to a target directory automatically after recording.
 ## 🧪 Example Output
 
 This GIF was taken using the tool:  
-[📷 screenshot.gif](https://cdn.discordapp.com/attachments/1316656693618151465/1374856846535557180/screenshot.gif)
+[📷 screenshot.gif](https://github.com/Bloodhundur/windows-gif-screenshotter/blob/main/screenshot.gif?raw=true)
 
 ## 🔜 Upcoming Features
 
