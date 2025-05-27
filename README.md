@@ -1,7 +1,7 @@
 # windows-gif-screenshotter
 
 **⚠️ IMPORTANT NOTICE:**  
-This tool is slated for a rewrite with Linux (Wayland) support, as I no longer use Windows & Wayland does not support global key listeners.
+This tool is slated for a rewrite with Linux (Wayland) support, as I no longer use Windows & Wayland does not support global input listeners.
 
 
 ## Overview
